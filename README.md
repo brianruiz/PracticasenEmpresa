@@ -1,2 +1,2 @@
-# PracticasenEmpresa
+# PracticasEmpresa
 Desarrollo Vue js App
